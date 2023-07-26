@@ -35,10 +35,10 @@
 ### Клонирование
 Поскольку этот репозиторий содержит фронтенд как git submodule, его необходимо клонировать так:
 ```bash
-git clone --recurse-submodules https://gitlab.com/packmate/Packmate.git
+git clone --recurse-submodules https://github.com/sergey6531/Packmate.git
 
 # Или, на старых версиях git
-git clone --recursive https://gitlab.com/packmate/Packmate.git
+git clone --recursive https://github.com/sergey6531/Packmate.git
 ```
 
 Если репозиторий уже был склонирован без подмодулей, необходимо выполнить:
